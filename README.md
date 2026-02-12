@@ -23,3 +23,7 @@ Fichier avant / après
 
 Lecture des données encryptées
 
+<img width="286" height="441" alt="image" src="https://github.com/user-attachments/assets/dd299b37-f331-44ed-a066-5168cd17a4ba" />
+
+<img width="284" height="510" alt="image" src="https://github.com/user-attachments/assets/622b2485-4ac4-406d-b680-5a51f8b63d23" />
+
